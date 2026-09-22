@@ -1,2 +1,2 @@
 # FirstSuperHeroProject
-First project abou how to use inheritance
+First project about how to use inheritance
